@@ -1,0 +1,70 @@
+# ==============================================================================
+# .gitignore for ryok3n-ollama_api Project
+# Author:      RyoK3N
+# Email:       reiyo@sparrowup.com
+# Date:        2025-01-17
+# Description: Ignores files and directories that should not be tracked by Git.
+# ==============================================================================
+
+
+# --------------------------
+# IDE and Editor Directories
+# --------------------------
+
+# VS Code settings and server
+.vscode/
+.vscode-server/
+
+# --------------------------
+# System Files
+# --------------------------
+
+# macOS Finder files
+.DS_Store
+
+# Windows Thumbnail Cache files
+Thumbs.db
+
+# --------------------------
+# Python Virtual Environments and Caches
+# --------------------------
+
+# Virtual environment directories
+venv/
+.env/
+
+# Python cache directories
+__pycache__/
+*.pyc
+
+# --------------------------
+# Log and Temporary Files
+# --------------------------
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# --------------------------
+# Git Metadata
+# --------------------------
+
+# Git directory 
+.git/
+
+# --------------------------
+# Large Files and Archives
+# --------------------------
+
+# Example patterns for large files
+*.psd
+*.zip
+*.tar.gz
+*.7z
+
+#===============================================================================
+#End of .gitignore
+#===============================================================================
