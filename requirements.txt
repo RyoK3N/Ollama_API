@@ -1,0 +1,4 @@
+toml
+psutil
+pynvml
+py-cpuinfo
